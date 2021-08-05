@@ -1279,7 +1279,7 @@ footer {
     .section__four {
         width: 561px;
         padding: 39px 28px;
-        height: 578px;
+        height: 420px;
         border-radius: 9px;
         transform: translateY(170px);
         margin-top: 0px;
@@ -1297,7 +1297,7 @@ footer {
     }
 
     .section__four__form {
-        margin-top: 32px;
+        margin-top: 40px;
     }
 
     .section__four__form__input {
@@ -1309,7 +1309,7 @@ footer {
         padding-right: 100px;
         height: 60px;
         width: 450px;
-        margin-bottom: 24px;
+        margin-bottom: 35px;
     }
 
     .section__four__form__button {
