@@ -513,7 +513,7 @@ footer {
 }
 
 .footer__wrapper {
-    padding-top: 202px;
+    padding-top: 203px;
     padding-bottom: 97px;
 }
 
@@ -1016,6 +1016,7 @@ footer {
 }
 /* footer responsive */
 
+ /* header too responsive */
 @media (min-width: 375px) and (max-width: 600px) {
     .continer {
         max-width: 660px;
@@ -1063,9 +1064,9 @@ footer {
 
 }
 
-/* header responsive */
+/* header  responsive too */
 
-/* section responsive */
+/* section responsive too */
 @media (min-width: 375px) and (max-width: 600px) {
     .continer {
         max-width: 600px;
@@ -1171,9 +1172,9 @@ footer {
 
 }
 
-/* section responsive */
+/* section responsive too */
 
-/* section__too responsive */
+/* section__too responsive too*/
 @media (min-width: 375px) and (max-width: 600px) {
     .continer {
         max-width: 600px;
@@ -1217,9 +1218,9 @@ footer {
     }
 }
 
-/* section__too responsive */
+/* section__too responsive too */
 
-/* section__three reponsive */
+/* section__three reponsive too */
 @media (min-width: 375px) and (max-width: 600px) {
     .continer {
         max-width: 600px;
@@ -1265,9 +1266,9 @@ footer {
     }
 }
 
-/* section__three reponsive */
+/* section__three reponsive too */
 
-/* section__four responsive */
+/* section__four responsive too */
 @media (min-width: 375px) and (max-width: 600px) {
     .continer {
         max-width: 600px;
@@ -1320,9 +1321,9 @@ footer {
     }
 }
 
-/* section__four responsive */
+/* section__four responsive too*/
 
-/* footer responsive */
+/* footer responsive too */
 @media (min-width: 375px) and (max-width: 600px) {
     .continer {
         max-width: 600px;
@@ -1380,10 +1381,10 @@ footer {
     }
 
     .footer__pages__item__four {
-        margin-top: 48px;
+        margin-top: 45px;
     }
     .footer__pages__item__five{
-        margin-top: 21px;
+        margin-top: 20px;
     }
     .footer__pages__list__six {
         margin-top: 80px;
@@ -1396,4 +1397,4 @@ footer {
         height: 30px;
     }
 }
-/* footer responsive */
+/* footer responsive too */
